@@ -1,1 +1,1 @@
-# IBM-Professional-Data-Analyst-Certification
+# IBM-Professional-Data-Analyst-Certificate
