@@ -12,7 +12,7 @@ This 9-course professional certificate covered core principles of data analysis 
 ## 🥇 Professional Certificate
 
 <p align="center">
-<img src="https://github.com/mesbahiba/IBM_Professional_Data_Analyst/blob/main/Certificates/10.png" width=80% height=80%>
+<img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" width=80% height=80%>
  
  ## 📙 Course Structures
 
