@@ -9,7 +9,6 @@ I gained the **job-ready skills** for an entry-level data analyst role through t
 
 This 9-course professional certificate covered core principles of data analysis and gaining hands-on skills practice. I worked with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation and applying analytical techniques.
 
-## 🥇 Professional Certificate
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" width=80% height=80%>
