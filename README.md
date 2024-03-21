@@ -70,6 +70,6 @@ In this course you will apply various Data Analytics skills and techniques that 
 
 
 ---
-<p>&copy; 2021 Md. Mesbahul Islam Chowdhury </p>
+<p>&copy; 2022 Md. Nelson Mondoa </p>
 
 ---
